@@ -1,5 +1,5 @@
 ![SethMedia Logo](https://cdn.cottle.cloud/sethmedia/sethmedia-animated.gif) 
-# Seth Media Addon
+# Seth's Media Companion
 
 This is addon is a simple media repository for sound files that have been generated for my WeakAuras. It is **not** required for my WeakAuras to work.
 
